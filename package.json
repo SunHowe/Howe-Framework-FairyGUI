@@ -1,0 +1,17 @@
+{
+    "name": "com.howegame.framework.fairygui",
+    "author": "SunHowe",
+    "displayName": "HoweFramework FairyGUI",
+    "description": "Provide FairyGUI service.",
+    "unity": "2020.3",
+    "version": "2021.8.12",
+    "keywords": [
+        "howegame",
+        "howegameui"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SunHowe/Howe-Framework-FairyGUI.git"
+    }
+}
