@@ -1,3 +1,17 @@
 {
-	"name": "HoweFramework.FairyGUI"
+    "name": "HoweFramework.FairyGUI",
+    "rootNamespace": "HoweFramework.FairyGUI",
+    "references": [
+        "GUID:0c25242839c6c4b7d822db556cb3f549",
+        "GUID:5ff63b3b2f00ae149848dc586bdd5d5b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
